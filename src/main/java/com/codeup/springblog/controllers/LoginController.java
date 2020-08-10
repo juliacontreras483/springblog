@@ -1,5 +1,11 @@
 package com.codeup.springblog.controllers;
 
+public class LoginController {
+}
+
+
+
+
 //@Controller
 //public class LoginController {
 
