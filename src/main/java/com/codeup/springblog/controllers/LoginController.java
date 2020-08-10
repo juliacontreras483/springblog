@@ -1,5 +1,4 @@
-package com.codeup.springblog;
-import org.springframework.stereotype.Controller;
+package com.codeup.springblog.controllers;
 
 //@Controller
 //public class LoginController {
